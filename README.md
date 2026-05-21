@@ -47,6 +47,7 @@ Telegram Bot Monitoring/
 ├── docker-compose.yml      # Docker multi-container setup
 ├── main.py                 # Bot entry point
 └── requirements.txt        # Project dependencies
+```
 1. Clone the repository
 Bash
 git clone [https://github.com/yourusername/crypto-monitor-bot.git](https://github.com/yourusername/crypto-monitor-bot.git)
