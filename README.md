@@ -27,7 +27,7 @@ An asynchronous Telegram bot built with **Aiogram 3** and **SQLAlchemy 2.0**. It
 
 ## 📂 Project Structure
 
-text
+``` text
 Telegram Bot Monitoring/
 ├── bot/
 │   ├── __init__.py
